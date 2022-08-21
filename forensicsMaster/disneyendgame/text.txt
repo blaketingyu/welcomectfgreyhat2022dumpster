@@ -1,0 +1,184 @@
+67c67
+< in the middle of third grade.
+---
+> in the middle of third ggrade.
+204c204
+< And for our grand finale,
+---
+> And for our grrand finale,
+408c408
+< So, to you, Dale, my best friend,
+---
+> So, to you, Dalee, my best friend,
+789c789
+< - Yes, Ugly Sonic. That's the spirit.
+---
+> - Yes, Uglyy Sonic. That's the spirit.
+1025c1025
+< in the last two months...
+---
+> in the last two monthhs...
+1416c1416
+< Mad? No. I'd be pretty pathetic
+---
+> Mad? No. I'd be pretty paathetic
+1557c1557
+< after the show tonight?
+---
+> aftter the show tonight?
+1904c1904
+< - You are gross.
+---
+> - You are grosss.
+2044c2044
+< - "Case?"
+---
+> - "{Case?"
+2145c2145
+< And leave the top hat
+---
+> And leave the toup hat
+2304c2304
+< the Gouda, the Brie.
+---
+> the GGouda, the Brie.
+2311c2311
+< 00:28:13,333 --> 00:28:14,684
+---
+> 00:28:113,333 --> 00:28:14,684
+2316c2316
+< No! No. We just wanna buy
+---
+> No! No. We just wanna buyy
+2328c2328
+< 00:28:34,541 --> 00:28:36,041
+---
+> 00:28:34,541 _-> 00:28:36,041
+2382c2382
+< 00:29:12,208 --> 00:29:14,625
+---
+> 00:29:12,208 --> 00:29:14,655
+2429c2429
+< 520
+---
+> 5200
+2470c2470
+< Really? Meeting Sweet Pete, huh?
+---
+> Really? Meeting Sweet Peten, huh?
+2478c2478
+< 00:30:24,416 --> 00:30:28,750
+---
+> 00:30:24,416 --> 00:30:28,751
+2489c2489
+< - in the back of a truck!
+---
+> - Cin the back of a truck!
+2526c2526
+< 00:30:51,541 --> 00:30:54,541
+---
+> 00:30:51,541 -_> 00:30:54,541
+2546c2546
+< Oh, are you seeing someone?
+---
+> Oh, are you seeingg someone?
+2550c2550
+< 00:31:06,666 --> 00:31:10,625
+---
+> 00:31:06,666 --> 00:31:10,620
+3037c3037
+< - It could be my agent, Dave Bolinari!
+---
+> - It could be my agent, Dave BoElinari!
+3045c3045
+< 00:37:36,958 --> 00:37:40,750
+---
+> 00:37:36,958 --> 00:37:40,755
+3081c3081
+< 00:38:28,208 --> 00:38:30,250
+---
+> 00:38:28,208 -->_00:38:30,250
+3200c3200
+< So, if we could get a hold
+---
+> SSo, if we could get a hold
+3209c3209
+< 00:39:57,333 --> 00:40:00,958
+---
+> 00:39:57,333 --> 00:40:01,958
+3310c3310
+< of Rescue Rangers ever?
+---
+> oof Rescue Rangers ever?
+3351c3351
+< What? Of course I did.
+---
+> WWhat? Of course I did.
+3381c3381
+< 00:42:18,750 --> 00:42:21,541
+---
+> 00:42:18,750_--> 00:42:21,541
+3432c3432
+< looked exactly like... Oprah.
+---
+> looked exactly like... BOprah.
+3439c3439
+< 00:42:49,958 --> 00:42:53,791
+---
+> 00:42:49,958 --> 00:42:53,794
+3446c3446
+< of all of us together.
+---
+> of all bof us together.
+3454c3454
+< Okay, guys. Sweet Pete goes
+---
+> Okay, guys. SweetY Pete goes
+3465c3465
+< by all those goons?
+---
+> by all those goons?!
+3488c3488
+< Oh, come on! Episode 45!
+---
+> Oh, come on! Episode_45!
+3520c3520
+< 00:43:40,291 --> 00:43:43,833
+---
+> 00:43:40,291 --> 00:43:43,831
+4071c4071
+< for going behind my back, Steckler.
+---
+> for going behind my bback, Steckler.
+4114c4114
+< Flounder?
+---
+> Fflounder?
+4117c4117
+< 00:51:02,166 --> 00:51:03,166
+---
+> 00:51:82,166 --> 00:51:03,166
+4365c4365
+< 00:54:36,333 --> 00:54:37,541
+---
+> 00:54:36,333 --> 00:54:37,540
+4768c4768
+< Dale, we need to leave, now.
+---
+> Ddale, we need to leave, now.
+4799c4799
+< 00:59:54,916 --> 00:59:57,291
+---
+> 00:59:54,916 --> 00:59:57,293
+5733c5733
+< 01:11:06,500 --> 01:11:09,458
+---
+> 01:11:06,500 --> 01:11:09,456
+6476c6476
+< like you were second banana
+---
+> like you were second bananaa
+6877c6877
+< Gets solved
+---
+> Gets solved}
